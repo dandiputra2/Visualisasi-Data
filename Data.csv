@@ -1,0 +1,200 @@
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,1/22/2020 17:00,444,17,28
+Shanghai,Mainland China,1/26/20 16:00,40,1,1
+Beijing,Mainland China,1/27/20 23:59,80,1,2
+Beijing,Mainland China,02/01/2020 09.17,168,1,9
+Henan,Mainland China,02/01/2020 01.52,422,2,3
+Shanghai,Mainland China,1/28/20 23:00,66,1,4
+Taiwan,Taiwan,2020-03-01T07:43:01,40,1,9
+Seattle, WA,US,2020-03-01T21:13:12,9,1,1
+Guangxi,Mainland China,2020-03-13T11:09:03,252,2,243
+Shaanxi,Mainland China,2020-03-12T01:33:02,245,2,232
+Yunnan,Mainland China,2020-03-11T02:18:14,174,2,170
+Hainan,Mainland China,2020-03-12T03:53:02,168,6,160
+Guizhou,Mainland China,2020-03-13T11:09:03,146,2,140
+Tianjin,Mainland China,2020-03-12T01:53:03,136,3,132
+Hong Kong,Hong Kong,2020-03-13T13:33:03,134,4,77
+Gansu,Mainland China,2020-03-13T11:09:03,127,2,88
+Liaoning,Mainland China,2020-03-12T09:53:06,125,1,112
+Xinjiang,Mainland China,2020-03-11T02:18:14,76,3,73
+Inner Mongolia,Mainland China,2020-03-11T03:53:03,75,1,71
+Jilin,Mainland China,2020-03-13T11:09:03,93,1,91
+British Columbia,Canada,2020-03-11T20:00:00,64,1,4
+New South Wales,Australia,2020-03-11T20:00:00,92,2,4
+Diamond Princess cruise ship,Others,2020-03-11T20:00:00,696,7,325
+France,France,2020-03-11T20:00:00,3661,79,12
+United Kingdom,UK,2020-03-11T20:00:00,798,8,18
+California,US,2020-03-11T20:00:00,282,4,6
+Washington,US,2020-03-11T20:00:00,568,37,1
+Hubei,Mainland China,2020-03-14T10:13:09,67790,3075,52960
+France,France,2020-03-14T20:13:16,4469,91,12
+Guangdong,Mainland China,2020-03-14T01:13:11,1356,8,1299
+Henan,Mainland China,2020-03-14T09:53:08,1273,22,1250
+Zhejiang,Mainland China,2020-03-14T02:14:15,1227,1,1211
+United Kingdom,UK,2020-03-14T14:53:04,1140,21,18
+Hunan,Mainland China,2020-03-14T08:33:03,1018,4,1014
+Anhui,Mainland China,2020-03-11T02:18:14,990,6,984
+Jiangxi,Mainland China,2020-03-12T02:13:04,935,1,934
+Denmark,Denmark,2020-03-14T22:13:32,827,1,1
+Shandong,Mainland China,2020-03-14T04:33:02,760,7,741
+Diamond Princess cruise ship,Others,2020-03-13T14:13:25,696,7,325
+Chongqing,Mainland China,2020-03-14T23:53:02,576,6,569
+Washington,US,2020-03-14T22:13:19,572,37,1
+Sichuan,Mainland China,2020-03-14T04:33:02,539,3,511
+Heilongjiang,Mainland China,2020-03-14T00:13:05,482,13,447
+Beijing,Mainland China,2020-03-14T02:13:47,437,8,349
+Shanghai,Mainland China,2020-03-14T23:53:02,353,3,324
+California,US,2020-03-14T22:13:32,340,5,6
+Hebei,Mainland China,2020-03-13T11:09:03,318,6,310
+Fujian,Mainland China,2020-03-11T02:18:14,296,1,295
+Guangxi,Mainland China,2020-03-13T11:09:03,252,2,243
+Shaanxi,Mainland China,2020-03-12T01:33:02,245,2,232
+Yunnan,Mainland China,2020-03-14T23:33:02,174,2,172
+Hainan,Mainland China,2020-03-12T03:53:02,168,6,160
+Guizhou,Mainland China,2020-03-14T00:53:03,146,2,143
+Hong Kong,Hong Kong,2020-03-14T12:53:06,140,4,78
+Tianjin,Mainland China,2020-03-12T01:53:03,136,3,132
+Gansu,Mainland China,2020-03-14T03:13:08,129,2,89
+Liaoning,Mainland China,2020-03-14T00:13:05,125,1,113
+New South Wales,Australia,2020-03-14T13:33:04,112,2,4
+Jilin,Mainland China,2020-03-13T11:09:03,93,1,91
+Xinjiang,Mainland China,2020-03-11T02:18:14,76,3,73
+Inner Mongolia,Mainland China,2020-03-11T03:53:03,75,1,71
+British Columbia,Canada,2020-03-14T00:13:05,64,1,4
+Hubei,Mainland China,2020-03-15T18:20:18,67794,3085,54288
+France,France,2020-03-15T18:20:18,4499,91,12
+Guangdong,Mainland China,2020-03-15T18:20:18,1360,8,1304
+Henan,Mainland China,2020-03-14T09:53:08,1273,22,1250
+Zhejiang,Mainland China,2020-03-15T01:33:02,1231,1,1211
+United Kingdom,UK,2020-03-14T14:53:04,1140,21,18
+Hunan,Mainland China,2020-03-14T08:33:03,1018,4,1014
+Anhui,Mainland China,2020-03-11T02:18:14,990,6,984
+Jiangxi,Mainland China,2020-03-12T02:13:04,935,1,934
+Denmark,Denmark,2020-03-15T18:20:19,864,2,1
+Shandong,Mainland China,2020-03-14T04:33:02,760,7,741
+Diamond Princess cruise ship,Others,2020-03-13T14:13:25,696,7,325
+Washington,US,2020-03-15T02:13:21,643,40,1
+Chongqing,Mainland China,2020-03-15T03:53:04,576,6,570
+Sichuan,Mainland China,2020-03-15T18:20:18,539,3,516
+Heilongjiang,Mainland China,2020-03-15T00:33:02,482,13,453
+Beijing,Mainland China,2020-03-15T01:13:10,442,8,353
+California,US,2020-03-15T18:33:03,426,6,6
+Shanghai,Mainland China,2020-03-14T23:53:02,353,3,324
+Hebei,Mainland China,2020-03-13T11:09:03,318,6,310
+Fujian,Mainland China,2020-03-11T02:18:14,296,1,295
+Guangxi,Mainland China,2020-03-13T11:09:03,252,2,243
+Shaanxi,Mainland China,2020-03-12T01:33:02,245,2,232
+Yunnan,Mainland China,2020-03-14T23:33:02,174,2,172
+Hainan,Mainland China,2020-03-12T03:53:02,168,6,160
+Guizhou,Mainland China,2020-03-14T00:53:03,146,2,143
+Hong Kong,Hong Kong,2020-03-15T18:20:18,145,4,81
+Tianjin,Mainland China,2020-03-15T18:20:18,136,3,133
+New South Wales,Australia,2020-03-15T18:20:19,134,2,4
+Gansu,Mainland China,2020-03-15T18:20:18,133,2,91
+Liaoning,Mainland China,2020-03-15T04:13:27,125,1,114
+Jilin,Mainland China,2020-03-13T11:09:03,93,1,91
+Xinjiang,Mainland China,2020-03-11T02:18:14,76,3,73
+Inner Mongolia,Mainland China,2020-03-11T03:53:03,75,1,71
+British Columbia,Canada,2020-03-15T01:53:02,73,1,4
+Hubei,Mainland China,2020-03-16T14:38:45,67798,3099,55142
+France,France,2020-03-16T20:13:11,6633,148,12
+United Kingdom,UK,2020-03-16T19:13:13,1543,55,20
+Netherlands,Netherlands,2020-03-16T14:38:46,1413,24,2
+Guangdong,Mainland China,2020-03-16T01:53:03,1361,8,1306
+Henan,Mainland China,2020-03-14T09:53:08,1273,22,1250
+Zhejiang,Mainland China,2020-03-16T14:38:45,1231,1,1216
+Hunan,Mainland China,2020-03-14T08:33:03,1018,4,1014
+Anhui,Mainland China,2020-03-11T02:18:14,990,6,984
+Jiangxi,Mainland China,2020-03-12T02:13:04,935,1,934
+Denmark,Denmark,2020-03-16T18:33:03,914,3,1
+Washington,US,2020-03-16T23:53:03,904,48,1
+Shandong,Mainland China,2020-03-16T14:38:45,760,7,746
+Diamond Princess cruise ship,Others,2020-03-13T14:13:25,696,7,325
+Chongqing,Mainland China,2020-03-15T03:53:04,576,6,570
+California,US,2020-03-16T23:53:03,557,7,6
+Sichuan,Mainland China,2020-03-15T18:20:18,539,3,516
+Heilongjiang,Mainland China,2020-03-16T14:38:45,482,13,455
+Beijing,Mainland China,2020-03-16T14:38:45,452,8,360
+Shanghai,Mainland China,2020-03-16T14:38:45,355,3,325
+Hebei,Mainland China,2020-03-13T11:09:03,318,6,310
+Fujian,Mainland China,2020-03-11T02:18:14,296,1,295
+Guangxi,Mainland China,2020-03-16T14:38:45,252,2,248
+Shaanxi,Mainland China,2020-03-16T14:38:45,245,2,233
+New Jersey,US,2020-03-16T22:13:21,178,2,1
+Yunnan,Mainland China,2020-03-16T23:53:02,176,2,172
+New South Wales,Australia,2020-03-16T14:38:46,171,2,4
+Hainan,Mainland China,2020-03-16T14:38:45,168,6,161
+Hong Kong,Hong Kong,2020-03-16T14:38:45,155,4,84
+Guizhou,Mainland China,2020-03-16T14:38:45,146,2,144
+Tianjin,Mainland China,2020-03-15T18:20:18,136,3,133
+Gansu,Mainland China,2020-03-15T18:20:18,133,2,91
+Liaoning,Mainland China,2020-03-16T14:38:45,125,1,115
+British Columbia,Canada,2020-03-16T19:13:13,103,4,4
+Jilin,Mainland China,2020-03-16T00:22:10,93,1,92
+Xinjiang,Mainland China,2020-03-11T02:18:14,76,3,73
+Inner Mongolia,Mainland China,2020-03-16T14:38:45,75,1,73
+Kentucky,US,2020-03-16T18:33:03,21,1,1
+Hubei,Mainland China,2020-03-17T11:53:10,67799,3111,56003
+France,France,2020-03-17T19:13:08,7652,148,12
+United Kingdom,UK,2020-03-17T15:13:09,1950,55,52
+Netherlands,Netherlands,2020-03-17T15:13:11,1705,43,2
+Guangdong,Mainland China,2020-03-17T01:53:03,1364,8,1307
+Henan,Mainland China,2020-03-14T09:53:08,1273,22,1250
+Diamond Princess cruise ship,Others,2020-03-13T14:13:25,696,7,325
+Chongqing,Mainland China,2020-03-15T03:53:04,576,6,570
+Sichuan,Mainland China,2020-03-17T08:33:02,540,3,520
+Heilongjiang,Mainland China,2020-03-17T01:33:02,482,13,456
+Beijing,Mainland China,2020-03-17T10:53:03,456,8,369
+Shanghai,Mainland China,2020-03-17T02:13:20,358,3,325
+Hebei,Mainland China,2020-03-13T11:09:03,318,6,310
+Fujian,Mainland China,2020-03-11T02:18:14,296,1,295
+New Jersey,US,2020-03-17T20:13:22,267,3,1
+Guangxi,Mainland China,2020-03-17T00:33:02,253,2,248
+Shaanxi,Mainland China,2020-03-17T10:53:03,246,3,236
+New South Wales,Australia,2020-03-17T12:33:07,210,4,4
+Ontario,Canada,2020-03-17T16:53:04,185,1,5
+Yunnan,Mainland China,2020-03-16T23:53:02,176,2,172
+Hainan,Mainland China,2020-03-16T14:38:45,168,6,161
+Hong Kong,Hong Kong,2020-03-17T10:13:11,162,4,88
+Illinois,US,2020-03-17T22:53:03,161,1,2
+Guizhou,Mainland China,2020-03-17T07:33:03,147,2,144
+Tianjin,Mainland China,2020-03-15T18:20:18,136,3,133
+Gansu,Mainland China,2020-03-15T18:20:18,133,2,91
+Liaoning,Mainland China,2020-03-17T12:13:13,125,1,120
+British Columbia,Canada,2020-03-16T19:13:13,103,4,4
+Jilin,Mainland China,2020-03-16T00:22:10,93,1,92
+Western Australia,Australia,26/03/2020 23.53,231,2,1
+Xinjiang,Mainland China,26/03/2020 23.53,76,3,73
+Yunnan,Mainland China,26/03/2020 23.53,178,2,172
+Zhejiang,Mainland China,26/03/2020 23.53,1243,1,1222
+Anhui,Mainland China,27/03/2020 23.27,990,6,984
+Beijing,Mainland China,27/03/2020 23.27,569,8,408
+Chongqing,Mainland China,27/03/2020 23.27,578,6,570
+Curacao,Netherlands,27/03/2020 23.27,8,1,2
+Fujian,Mainland China,27/03/2020 23.27,331,1,295
+Gansu,Mainland China,27/03/2020 23.27,136,2,123
+Guangdong,Mainland China,27/03/2020 23.27,1456,8,1337
+Guangxi,Mainland China,27/03/2020 23.27,254,2,250
+Guizhou,Mainland China,27/03/2020 23.27,146,2,144
+Hainan,Mainland China,27/03/2020 23.27,168,6,162
+Hebei,Mainland China,27/03/2020 23.27,319,6,310
+Heilongjiang,Mainland China,27/03/2020 23.27,484,13,469
+Channel Islands,UK,03/04/2020 22.52,232,4,13
+Chongqing,Mainland China,03/04/2020 22.52,579,6,570
+Curacao,Netherlands,03/04/2020 22.52,11,1,3
+Fujian,Mainland China,03/04/2020 22.52,349,1,300
+Gansu,Mainland China,03/04/2020 22.52,138,2,127
+Guadeloupe,France,03/04/2020 22.52,130,7,24
+Guangdong,Mainland China,03/04/2020 22.52,1514,8,1368
+Guangxi,Mainland China,03/04/2020 22.52,254,2,252
+Guizhou,Mainland China,03/04/2020 22.52,146,2,144
+Hainan,Mainland China,03/04/2020 22.52,168,6,162
+Hebei,Mainland China,03/04/2020 22.52,326,6,310
+Heilongjiang,Mainland China,03/04/2020 22.52,489,13,469
+Henan,Mainland China,03/04/2020 22.52,1276,22,1251
+Hong Kong,Hong Kong,03/04/2020 22.52,845,4,173
+Hubei,Mainland China,03/04/2020 22.52,67802,3203,63612
+Queensland,Australia,04/04/2020 09.38,900,4,8
+Shaanxi,Mainland China,04/04/2020 09.38,256,3,245
+Shandong,Mainland China,04/04/2020 09.38,778,7,755
+Shanghai,Mainland China,04/04/2020 09.38,529,6,356
